@@ -1,0 +1,106 @@
+div {
+
+    display: inline-block;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+
+
+
+#quadroredA{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+
+}
+
+.quadroredB{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroazulB{
+    background-color: #00b0f0;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroverdeB{
+    background-color: #00b050;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroamareloB{
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+#quadrored{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.quadroB{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroamarelo{
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroredC{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroredD{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroredE{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.quadroredF{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.quadroredF1{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black ;
+}
+
